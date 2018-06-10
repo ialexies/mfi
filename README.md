@@ -1,2 +1,0 @@
-# mfi
-mfi local movies
